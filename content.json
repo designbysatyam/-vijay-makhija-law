@@ -1,7 +1,9 @@
 {
- "updated": "2026-10-29T00:00:00Z",
+ "updated": "2026-10-30T14:06:44.347Z",
  "photo": "assets/sir.png",
- "text": {},
+ "text": {
+  "intro.roles": "CAF  /  CA Inter  /  CS"
+ },
  "links": {
   "telegram": "https://t.me/Vijaymakhija05",
   "telegram_label": "CA Foundation Law Questions",
@@ -14,5 +16,9 @@
   "email": "",
   "email_label": ""
  },
- "theme": {}
+ "theme": {
+  "amber": "#ffcc66",
+  "amber2": "#ffe8ad",
+  "bg": "#001f47"
+ }
 }
