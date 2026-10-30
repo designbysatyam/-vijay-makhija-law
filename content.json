@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T14:06:44.347Z",
+ "updated": "2026-10-30T14:21:38.031Z",
  "photo": "assets/sir.png",
  "text": {
   "intro.roles": "CAF  /  CA Inter  /  CS"
@@ -17,8 +17,6 @@
   "email_label": ""
  },
  "theme": {
-  "amber": "#ffcc66",
-  "amber2": "#ffe8ad",
-  "bg": "#001f47"
+  "bg": "#141834"
  }
 }
