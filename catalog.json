@@ -9,6 +9,20 @@
      "salt": "90F0zC85tS6dqqpyPQc+KA==",
      "iter": 600000,
      "wrap": "hJZnmObuDWSF1vKC09uA+Wili6ZP/ep8MsRApeFaX7yhy59hvRYSDu0z+c83ebBlIRfx03Z3n8R9wBHP"
+    },
+    {
+     "id": "wmvv21cp456",
+     "label": "Valley-Atlas-Raven-647",
+     "salt": "Byj8DUBZScZ1QJwryGbZuA==",
+     "iter": 600000,
+     "wrap": "cSHV4UDdm+24V+bYf2JZRNxFv9PAV3jST1xIrV/gQqjiHFErz5fjDpvlUIqFh8Bzub0cmGp7128AdlZL"
+    },
+    {
+     "id": "wmvv2307242",
+     "label": "Sale of Goods Act, 1930",
+     "salt": "Bpvg8dbVYSLnrCiRzBeJYg==",
+     "iter": 600000,
+     "wrap": "I4ZX+tYxw8HFCuYpdmNx8gJB+Pzb68T+dTvegLN7lJeueX1FNmogwVm5319kRFprbYK7MBV+5MaTFhvB"
     }
    ]
   }
@@ -194,6 +208,16 @@
    "pages": 18,
    "ar": 0.7071,
    "size": 4824000,
+   "added": "2026-10-30"
+  },
+  {
+   "id": "caf-indian-contract-act-1872-soga-recall-notes-by-satyam-e41945",
+   "title": "SOGA Recall Notes by Satyam",
+   "level": "CAF",
+   "folder": "Indian Contract Act, 1872",
+   "pages": 12,
+   "ar": 0.7071,
+   "size": 3919052,
    "added": "2026-10-30"
   }
  ]
